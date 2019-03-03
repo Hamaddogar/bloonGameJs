@@ -79,6 +79,11 @@
   font-size: 30px;
 }
 
+.explosion{
+  position: absolute;
+  width:60px;
+}
+
 #game_over {
 
   position: absolute;
